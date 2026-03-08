@@ -1,5 +1,5 @@
 hyperon==0.1.6
-langchain==0.0.347
+langchain==0.3.28
 openai==1.1.0
 pymupdf==1.22.3
 pymilvus==2.2.8
