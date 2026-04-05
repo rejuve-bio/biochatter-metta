@@ -1,7 +1,7 @@
 hyperon==0.1.6
 langchain==0.0.347
 openai==1.1.0
-pymupdf==1.22.3
+pymupdf==1.26.5
 pymilvus==2.2.8
 tiktoken==0.5.2
 nltk==3.8.1
